@@ -7,81 +7,81 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		079B189A1C7C634100290D3F /* STNetwork.h in Headers */ = {isa = PBXBuildFile; fileRef = 079B18991C7C634100290D3F /* STNetwork.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		079B18A11C7C634100290D3F /* STNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 079B18961C7C634100290D3F /* STNetwork.framework */; };
-		079B18A61C7C634100290D3F /* STNetworkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 079B18A51C7C634100290D3F /* STNetworkTests.m */; };
+		074B159B1C7D631A00F51301 /* STNetwork.h in Headers */ = {isa = PBXBuildFile; fileRef = 074B159A1C7D631A00F51301 /* STNetwork.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		074B15A21C7D631A00F51301 /* STNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 074B15971C7D631A00F51301 /* STNetwork.framework */; };
+		074B15A71C7D631A00F51301 /* STNetworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074B15A61C7D631A00F51301 /* STNetworkTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		079B18A21C7C634100290D3F /* PBXContainerItemProxy */ = {
+		074B15A31C7D631A00F51301 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 079B188D1C7C634100290D3F /* Project object */;
+			containerPortal = 074B158E1C7D631A00F51301 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 079B18951C7C634100290D3F;
+			remoteGlobalIDString = 074B15961C7D631A00F51301;
 			remoteInfo = STNetwork;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		079B18961C7C634100290D3F /* STNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = STNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		079B18991C7C634100290D3F /* STNetwork.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = STNetwork.h; sourceTree = "<group>"; };
-		079B189B1C7C634100290D3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		079B18A01C7C634100290D3F /* STNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = STNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		079B18A51C7C634100290D3F /* STNetworkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = STNetworkTests.m; sourceTree = "<group>"; };
-		079B18A71C7C634100290D3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		074B15971C7D631A00F51301 /* STNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = STNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		074B159A1C7D631A00F51301 /* STNetwork.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = STNetwork.h; sourceTree = "<group>"; };
+		074B159C1C7D631A00F51301 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		074B15A11C7D631A00F51301 /* STNetworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = STNetworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		074B15A61C7D631A00F51301 /* STNetworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STNetworkTests.swift; sourceTree = "<group>"; };
+		074B15A81C7D631A00F51301 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		079B18921C7C634100290D3F /* Frameworks */ = {
+		074B15931C7D631A00F51301 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		079B189D1C7C634100290D3F /* Frameworks */ = {
+		074B159E1C7D631A00F51301 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				079B18A11C7C634100290D3F /* STNetwork.framework in Frameworks */,
+				074B15A21C7D631A00F51301 /* STNetwork.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		079B188C1C7C634100290D3F = {
+		074B158D1C7D631A00F51301 = {
 			isa = PBXGroup;
 			children = (
-				079B18981C7C634100290D3F /* STNetwork */,
-				079B18A41C7C634100290D3F /* STNetworkTests */,
-				079B18971C7C634100290D3F /* Products */,
+				074B15991C7D631A00F51301 /* STNetwork */,
+				074B15A51C7D631A00F51301 /* STNetworkTests */,
+				074B15981C7D631A00F51301 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		079B18971C7C634100290D3F /* Products */ = {
+		074B15981C7D631A00F51301 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				079B18961C7C634100290D3F /* STNetwork.framework */,
-				079B18A01C7C634100290D3F /* STNetworkTests.xctest */,
+				074B15971C7D631A00F51301 /* STNetwork.framework */,
+				074B15A11C7D631A00F51301 /* STNetworkTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		079B18981C7C634100290D3F /* STNetwork */ = {
+		074B15991C7D631A00F51301 /* STNetwork */ = {
 			isa = PBXGroup;
 			children = (
-				079B18991C7C634100290D3F /* STNetwork.h */,
-				079B189B1C7C634100290D3F /* Info.plist */,
+				074B159A1C7D631A00F51301 /* STNetwork.h */,
+				074B159C1C7D631A00F51301 /* Info.plist */,
 			);
 			path = STNetwork;
 			sourceTree = "<group>";
 		};
-		079B18A41C7C634100290D3F /* STNetworkTests */ = {
+		074B15A51C7D631A00F51301 /* STNetworkTests */ = {
 			isa = PBXGroup;
 			children = (
-				079B18A51C7C634100290D3F /* STNetworkTests.m */,
-				079B18A71C7C634100290D3F /* Info.plist */,
+				074B15A61C7D631A00F51301 /* STNetworkTests.swift */,
+				074B15A81C7D631A00F51301 /* Info.plist */,
 			);
 			path = STNetworkTests;
 			sourceTree = "<group>";
@@ -89,25 +89,25 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		079B18931C7C634100290D3F /* Headers */ = {
+		074B15941C7D631A00F51301 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				079B189A1C7C634100290D3F /* STNetwork.h in Headers */,
+				074B159B1C7D631A00F51301 /* STNetwork.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		079B18951C7C634100290D3F /* STNetwork */ = {
+		074B15961C7D631A00F51301 /* STNetwork */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 079B18AA1C7C634100290D3F /* Build configuration list for PBXNativeTarget "STNetwork" */;
+			buildConfigurationList = 074B15AB1C7D631A00F51301 /* Build configuration list for PBXNativeTarget "STNetwork" */;
 			buildPhases = (
-				079B18911C7C634100290D3F /* Sources */,
-				079B18921C7C634100290D3F /* Frameworks */,
-				079B18931C7C634100290D3F /* Headers */,
-				079B18941C7C634100290D3F /* Resources */,
+				074B15921C7D631A00F51301 /* Sources */,
+				074B15931C7D631A00F51301 /* Frameworks */,
+				074B15941C7D631A00F51301 /* Headers */,
+				074B15951C7D631A00F51301 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -115,71 +115,72 @@
 			);
 			name = STNetwork;
 			productName = STNetwork;
-			productReference = 079B18961C7C634100290D3F /* STNetwork.framework */;
+			productReference = 074B15971C7D631A00F51301 /* STNetwork.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		079B189F1C7C634100290D3F /* STNetworkTests */ = {
+		074B15A01C7D631A00F51301 /* STNetworkTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 079B18AD1C7C634100290D3F /* Build configuration list for PBXNativeTarget "STNetworkTests" */;
+			buildConfigurationList = 074B15AE1C7D631A00F51301 /* Build configuration list for PBXNativeTarget "STNetworkTests" */;
 			buildPhases = (
-				079B189C1C7C634100290D3F /* Sources */,
-				079B189D1C7C634100290D3F /* Frameworks */,
-				079B189E1C7C634100290D3F /* Resources */,
+				074B159D1C7D631A00F51301 /* Sources */,
+				074B159E1C7D631A00F51301 /* Frameworks */,
+				074B159F1C7D631A00F51301 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				079B18A31C7C634100290D3F /* PBXTargetDependency */,
+				074B15A41C7D631A00F51301 /* PBXTargetDependency */,
 			);
 			name = STNetworkTests;
 			productName = STNetworkTests;
-			productReference = 079B18A01C7C634100290D3F /* STNetworkTests.xctest */;
+			productReference = 074B15A11C7D631A00F51301 /* STNetworkTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		079B188D1C7C634100290D3F /* Project object */ = {
+		074B158E1C7D631A00F51301 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = "st company";
+				ORGANIZATIONNAME = "kenneth wang";
 				TargetAttributes = {
-					079B18951C7C634100290D3F = {
+					074B15961C7D631A00F51301 = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
-					079B189F1C7C634100290D3F = {
+					074B15A01C7D631A00F51301 = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 				};
 			};
-			buildConfigurationList = 079B18901C7C634100290D3F /* Build configuration list for PBXProject "STNetwork" */;
+			buildConfigurationList = 074B15911C7D631A00F51301 /* Build configuration list for PBXProject "STNetwork" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 079B188C1C7C634100290D3F;
-			productRefGroup = 079B18971C7C634100290D3F /* Products */;
+			mainGroup = 074B158D1C7D631A00F51301;
+			productRefGroup = 074B15981C7D631A00F51301 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				079B18951C7C634100290D3F /* STNetwork */,
-				079B189F1C7C634100290D3F /* STNetworkTests */,
+				074B15961C7D631A00F51301 /* STNetwork */,
+				074B15A01C7D631A00F51301 /* STNetworkTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		079B18941C7C634100290D3F /* Resources */ = {
+		074B15951C7D631A00F51301 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		079B189E1C7C634100290D3F /* Resources */ = {
+		074B159F1C7D631A00F51301 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -189,33 +190,33 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		079B18911C7C634100290D3F /* Sources */ = {
+		074B15921C7D631A00F51301 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		079B189C1C7C634100290D3F /* Sources */ = {
+		074B159D1C7D631A00F51301 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				079B18A61C7C634100290D3F /* STNetworkTests.m in Sources */,
+				074B15A71C7D631A00F51301 /* STNetworkTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		079B18A31C7C634100290D3F /* PBXTargetDependency */ = {
+		074B15A41C7D631A00F51301 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 079B18951C7C634100290D3F /* STNetwork */;
-			targetProxy = 079B18A21C7C634100290D3F /* PBXContainerItemProxy */;
+			target = 074B15961C7D631A00F51301 /* STNetwork */;
+			targetProxy = 074B15A31C7D631A00F51301 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		079B18A81C7C634100290D3F /* Debug */ = {
+		074B15A91C7D631A00F51301 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -256,13 +257,14 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		079B18A91C7C634100290D3F /* Release */ = {
+		074B15AA1C7D631A00F51301 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -303,7 +305,7 @@
 			};
 			name = Release;
 		};
-		079B18AB1C7C634100290D3F /* Debug */ = {
+		074B15AC1C7D631A00F51301 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEFINES_MODULE = YES;
@@ -319,7 +321,7 @@
 			};
 			name = Debug;
 		};
-		079B18AC1C7C634100290D3F /* Release */ = {
+		074B15AD1C7D631A00F51301 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEFINES_MODULE = YES;
@@ -335,7 +337,7 @@
 			};
 			name = Release;
 		};
-		079B18AE1C7C634100290D3F /* Debug */ = {
+		074B15AF1C7D631A00F51301 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = STNetworkTests/Info.plist;
@@ -345,7 +347,7 @@
 			};
 			name = Debug;
 		};
-		079B18AF1C7C634100290D3F /* Release */ = {
+		074B15B01C7D631A00F51301 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = STNetworkTests/Info.plist;
@@ -358,32 +360,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		079B18901C7C634100290D3F /* Build configuration list for PBXProject "STNetwork" */ = {
+		074B15911C7D631A00F51301 /* Build configuration list for PBXProject "STNetwork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				079B18A81C7C634100290D3F /* Debug */,
-				079B18A91C7C634100290D3F /* Release */,
+				074B15A91C7D631A00F51301 /* Debug */,
+				074B15AA1C7D631A00F51301 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		079B18AA1C7C634100290D3F /* Build configuration list for PBXNativeTarget "STNetwork" */ = {
+		074B15AB1C7D631A00F51301 /* Build configuration list for PBXNativeTarget "STNetwork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				079B18AB1C7C634100290D3F /* Debug */,
-				079B18AC1C7C634100290D3F /* Release */,
+				074B15AC1C7D631A00F51301 /* Debug */,
+				074B15AD1C7D631A00F51301 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		079B18AD1C7C634100290D3F /* Build configuration list for PBXNativeTarget "STNetworkTests" */ = {
+		074B15AE1C7D631A00F51301 /* Build configuration list for PBXNativeTarget "STNetworkTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				079B18AE1C7C634100290D3F /* Debug */,
-				079B18AF1C7C634100290D3F /* Release */,
+				074B15AF1C7D631A00F51301 /* Debug */,
+				074B15B01C7D631A00F51301 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 079B188D1C7C634100290D3F /* Project object */;
+	rootObject = 074B158E1C7D631A00F51301 /* Project object */;
 }

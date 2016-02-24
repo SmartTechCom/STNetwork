@@ -2,8 +2,8 @@
 //  STNetwork.h
 //  STNetwork
 //
-//  Created by kenneth wang on 16/2/23.
-//  Copyright © 2016年 st company. All rights reserved.
+//  Created by kenneth wang on 16/2/24.
+//  Copyright © 2016年 kenneth wang. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

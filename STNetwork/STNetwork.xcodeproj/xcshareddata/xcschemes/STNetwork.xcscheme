@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "079B18951C7C634100290D3F"
+               BlueprintIdentifier = "074B15961C7D631A00F51301"
                BuildableName = "STNetwork.framework"
                BlueprintName = "STNetwork"
                ReferencedContainer = "container:STNetwork.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "079B189F1C7C634100290D3F"
+               BlueprintIdentifier = "074B15A01C7D631A00F51301"
                BuildableName = "STNetworkTests.xctest"
                BlueprintName = "STNetworkTests"
                ReferencedContainer = "container:STNetwork.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "079B18951C7C634100290D3F"
+            BlueprintIdentifier = "074B15961C7D631A00F51301"
             BuildableName = "STNetwork.framework"
             BlueprintName = "STNetwork"
             ReferencedContainer = "container:STNetwork.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "079B18951C7C634100290D3F"
+            BlueprintIdentifier = "074B15961C7D631A00F51301"
             BuildableName = "STNetwork.framework"
             BlueprintName = "STNetwork"
             ReferencedContainer = "container:STNetwork.xcodeproj">
@@ -82,7 +82,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "079B18951C7C634100290D3F"
+            BlueprintIdentifier = "074B15961C7D631A00F51301"
             BuildableName = "STNetwork.framework"
             BlueprintName = "STNetwork"
             ReferencedContainer = "container:STNetwork.xcodeproj">
